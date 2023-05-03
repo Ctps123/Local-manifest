@@ -3,5 +3,5 @@
         <!-- Trees -->
         <project path="device/motorola/amogus" name="moto-common/android_device_motorola_amogus" remote="github" revision="13" clone-depth="1" />
         <project path="vendor/motorola/amogus" name="moto-common/android_vendor_motorola_amogus" remote="github" revision="13" clone-depth="1" />
-        <project path="kernel/motorola/amogus" name="moto-common/android_kernel_motorola_msm-4.14" remote="github" revision="13" clone-depth="1" />
+        <project path="kernel/motorola/amogus" name="https://github.com/moto-common/android_device_motorola_amogus-kernel" remote="github" revision="13" clone-depth="1" />
 </manifest>
